@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Website Submission Plugin
-Description: Adds a form to submit website details and stores them as custom post type "Websites".
+Description: Adds a form to submit website details and stores them as custom post type "Website".
 Version: 1.0
-Author: Your Name
+Author: Fazal Khan
 */
 
 // Include necessary files
