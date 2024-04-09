@@ -25,8 +25,8 @@ Website Submission Plugin allows users to submit website information including n
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot-1.png)
-![Screenshot 2](/screenshots/screenshot-2.png)
+![Screenshot 1](https://github.com/Fazal-khan11/website-submission-plugin/blob/main/screenshot1.PNG)
+![Screenshot 2](https://github.com/Fazal-khan11/website-submission-plugin/blob/main/screenshot2.PNG)
 
 ## Support
 
