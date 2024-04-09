@@ -1,0 +1,31 @@
+/* Custom styles for the website submission form */
+#website-submission-form {
+    margin-bottom: 20px !important;
+}
+
+#website-submission-form label {
+    display: block !important;
+    margin-bottom: 5px;
+}
+
+#website-submission-form input[type="text"],
+#website-submission-form textarea {
+    width: 100% !important;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc !important;
+    border-radius: 4px;
+}
+
+#website-submission-form input[type="submit"] {
+    background-color: #fff !important;
+    color: #000 !important;
+    padding: 10px 20px !important;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#website-submission-form input[type="submit"]:hover {
+    background-color: #45a049;
+}
